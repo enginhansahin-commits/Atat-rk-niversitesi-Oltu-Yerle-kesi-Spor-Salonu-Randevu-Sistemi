@@ -1,4 +1,4 @@
-Atatürk Üniversitesi Oltu Yerleşkesi Spor Salonu Randevu Sistemi
+Atatürk Üniversitesi Oltu Yerleşkesi Spor Salonu Randevu Sistemi                                                                                                                      
 Bu uygulama, Atatürk Üniversitesi Oltu Yerleşkesinde bulunan spor salonları için bir randevu takip uygulamasıdır.
 Özellikler: 
 - Splash Screen
